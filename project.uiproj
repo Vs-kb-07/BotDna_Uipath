@@ -1,0 +1,6 @@
+{
+  "Name": "BotDnaTask_ActiveLone",
+  "ProjectType": "Process",
+  "Description": "In this Task bot have to read excel and collect last 4 digit of acc. search on site download the zip and unzip extrace the details and write to excel.",
+  "MainFile": "Main.xaml"
+}
